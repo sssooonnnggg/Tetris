@@ -1,0 +1,6 @@
+.svn/
+*.ncb
+Debug/
+Release/
+Tetris/Debug/
+Tetris/Release/
